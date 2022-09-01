@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **alanserafim/alanserafim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### Olá 👋
 ### Eu sou o Alan 👩‍💻
 
 <p align="left">
@@ -23,7 +21,10 @@ Here are some ideas to get you started:
 🛤  Conhecimentos em Front e Backend<br>
 📚  Atualmente sou estudante do 4º Semestre de Desenvolvimento de Software Multiplataforma na FATEC<br>
 </p>
- 
+
+### Hi there 👋
+### I'm Alan 👩‍💻
+
 <p align="left" padding-top="10px" >
 🏝  I'm from São Paulo, Brazil<br>
 💜  A Software Development enthusiast<br> 
