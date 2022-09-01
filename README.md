@@ -19,12 +19,19 @@ Here are some ideas to get you started:
 
 <p align="left">
 🏝  Eu sou de São Paulo, Brasil<br>
-    I'm from São Paulo, Brazil<br>
 💜  Apaixonado por Desenvolvimento de Software<br>
-    A Software Development Enthusiast<br> 
-🛤  Conhecimentos em Front e Backend || Skills in Front and Backend<br>
-📚  Atualmente sou estudante do 4º Semestre de Desenvolvimento de Software Multiplataforma na FATEC || Currently attending to the Software Development course at FATEC University<br>
+🛤  Conhecimentos em Front e Backend<br>
+📚  Atualmente sou estudante do 4º Semestre de Desenvolvimento de Software Multiplataforma na FATEC<br>
 </p>
+ 
+<p align="left" padding-top="10px" >
+🏝  I'm from São Paulo, Brazil<br>
+💜  A Software Development enthusiast<br> 
+🛤  Skills in Front and Backend<br>
+📚  Currently attending to the Software Development course at FATEC University<br>
+</p>
+ 
+ 
  
 <div>
   <a href = "mailto:alan.serafim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
