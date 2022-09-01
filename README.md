@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 <p align="left">
 🏝  Eu sou de São Paulo, Brasil<br>
-🏝  I'm from São Paulo, Brasil<br>
+🏝  I'm from São Paulo, Brazil<br>
 💜  Apaixonado por Desenvolvimento de Software<br>
-💜  A Software Development Enthusiast 
+💜  A Software Development Enthusiast<br> 
 🛤  Conhecimentos em Front e Backend<br>
 🛤  Skills in Front and Backend<br>
 📚  Atualmente sou estudante do 4º Semestre de Desenvolvimento de Software Multiplataforma na FATEC<br>
-📚  Currently attending to the Software Development course at FATEC University
+📚  Currently attending to the Software Development course at FATEC University<br>
 </p>
  
 <div>
