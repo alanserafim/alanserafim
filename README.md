@@ -33,17 +33,18 @@ Here are some ideas to get you started:
 </p>
  
  
- 
-<div>
-  <a href = "mailto:alan.serafim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alan-n-serafim-a55567214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
-
+<!-- 
  <div>
-  <a href="https://github.com/alanserafim">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alanserafim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanserafim&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+   <a href = "mailto:alan.serafim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/alan-n-serafim-a55567214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+
+  <div>
+   <a href="https://github.com/alanserafim">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alanserafim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanserafim&layout=compact&langs_count=7&theme=tokyonight"/>
+ </div>
+-->
 <div>
     <div style="padding-top: 10px">
         <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
