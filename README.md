@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🏝  Eu sou de São Paulo, Brasil<br>
 💜  Apaixonado por Desenvolvimento de Software<br>
 🛤  Conhecimentos em Front e Backend<br>
-📚  Atualmente sou estudante do 4º Semestre de Desenvolvimento de Software Multiplataforma na FATEC<br>
+📚  Atualmente sou estudante do 6º Semestre de Desenvolvimento de Software Multiplataforma na FATEC<br>
 </p>
 
 ### Hi there 👋
