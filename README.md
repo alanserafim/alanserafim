@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <p align="left">
 🏝  Eu sou de São Paulo, Brasil<br>
 💜  Apaixonado por Desenvolvimento de Software<br>
-🛤  Conhecimentos em Front e Backend<br>
-📚  Atualmente sou estudante do 6º Semestre de Desenvolvimento de Software Multiplataforma na FATEC<br>
+🛤  Conhecimentos em Desenvolvimento Back e Frontend<br>
+📚  Sou Formado em Desenvolvimento de Software Multiplataforma pela Fatec<br>
 </p>
 
 ### Hi there 👋
@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <p align="left" padding-top="10px" >
 🏝  I'm from São Paulo, Brazil<br>
 💜  A Software Development enthusiast<br> 
-🛤  Skills in Front and Backend<br>
-📚  Currently attending to the Software Development course at FATEC University<br>
+🛤  Skills in Front and Backend Development<br>
+📚  Graduated in Software Development from Fatec<br>
 </p>
  
  
